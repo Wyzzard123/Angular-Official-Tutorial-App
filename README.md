@@ -13,6 +13,7 @@ __NOTES__:
    ``` 
    ng new ngApp --routing 
    ``` 
+1. We are using angular-in-memory-web-api to simulate a web API.
 
 
 # Angulartutorial
